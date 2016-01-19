@@ -1,2 +1,2 @@
 # SmartColoring
-* list* list
+* list * list
