@@ -1,3 +1,2 @@
-# SmartColoring
+# Smart*Col*oring
 
- *fghgf_djh*fdhgfdhj_
