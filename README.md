@@ -8,4 +8,4 @@ Header
 __bold italic text__ **another bold italic text**
 ~~strike text~~
 1. text 
-2. text
+2. text 
