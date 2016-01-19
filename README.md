@@ -4,7 +4,8 @@ Header
 Header
 ------
 ### Header
-*some italic text* another * hdsghdsg text _another italic text_
+*some italic text* another 
+* hdsghdsg text * _another italic text_
 __bold italic text__ **another bold italic text**
 ~~strike text~~
  1.  Bird
