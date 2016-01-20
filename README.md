@@ -1,2 +1,2 @@
 # Smart*Col*oring
-gfngf__fgn*gf*nfgngfngf__g
+gfngf_fgn*gf*nfgngfngf_g
