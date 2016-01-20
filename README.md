@@ -1,2 +1,2 @@
 # Smart*Col*oring
- __This will* rgtrt* also be bold__
+ __This will *rgtrt* also be bold__
