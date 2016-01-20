@@ -1,2 +1,2 @@
 # Smart*Col*oring
-gfngf**fgn*gfnfgngfngf**g
+__This will also be bold__
