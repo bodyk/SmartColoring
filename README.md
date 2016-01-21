@@ -1,4 +1,4 @@
 # Smart*Col*oring
-__fjgfdhghfghfgdhg__
-_f_
-__f__
+**fjgfdh*ghfg*hfgdhg**
+*f*
+**f**
