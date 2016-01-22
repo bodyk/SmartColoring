@@ -1,2 +1,8 @@
 # Smart*Col*oring
-     -> We're living the future so
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
