@@ -1,8 +1,3 @@
 # Smart*Col*oring
-* Item
-* Item
-* Item
-
-- Item
-- Item
-- Item
+ааап*апапи
+апи*
