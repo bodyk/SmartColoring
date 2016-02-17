@@ -1,1 +1,2 @@
-Use ***italics and bold                                          together*** if you ___have to___.
+<himarkable.in>
+при такому автолінку має добавлятися mailto: а не http:\\
